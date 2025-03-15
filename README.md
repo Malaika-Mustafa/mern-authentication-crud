@@ -29,7 +29,7 @@ OR
  1. clone the repository
  git clone  https://github.com/Malaika-Mustafa/mern-authentication-crud.git
 
-2.cd mern-authentication-crud
+ 2. cd mern-authentication-crud
 
 
 - Frontend

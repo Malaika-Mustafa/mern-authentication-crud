@@ -42,7 +42,7 @@ OR
 
 4. Click on `http://localhost:5173/`
 
-- Backend
+-<h3> Backend </h3>
 
 1. Open terminal & go to `cd backend` 
 

@@ -4,11 +4,11 @@
 
 This is a full-stack MERN application that includes User Authentication (Login & Registration) and CRUD Operations. The app is built using React, Node.js, Express.js, and MongoDB, with Bootstrap for styling.
 
-🚀 Features \n
-✅ User Authentication: Register, Login, and Logout functionality \n
-✅ CRUD Operations: Create, Read, Update, and Delete records \n
-✅ Secure Backend: Password encryption with bcrypt  \n
-✅ User-Friendly UI: Built with React \n
+🚀 Features   
+✅ User Authentication: Register, Login, and Logout functionality   
+✅ CRUD Operations: Create, Read, Update, and Delete records   
+✅ Secure Backend: Password encryption with bcrypt    
+✅ User-Friendly UI: Built with React   
 
 ## ❓Requirements
 
@@ -32,7 +32,7 @@ OR
  2. cd mern-authentication-crud
 
 
-- Frontend
+-<h3> Frontend </h3>
 
 1. Open terminal & go to `cd frontend`
 

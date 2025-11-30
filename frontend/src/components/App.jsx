@@ -20,7 +20,7 @@ function App() {
 
                     {/* Protected Route for Home */}
                     <Route
-                        path="/home"
+                        path="/*"
                         element={isLoggedIn ? <CRUDApp /> : <Navigate to="/login" />}
                     />
                 </Routes>
